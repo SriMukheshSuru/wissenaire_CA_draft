@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+.logo{
+    width: 300px;
+    display: inline;
+
+}
+a{
+   font-size: 20px;
+
+}
+nav{
+    background-color: rgb(0,0,0,0.2);
+}
+.login{
+    color: white;
+    background-color: rgb(54,94,168)	;
+    margin: 10px;
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 18px;
+}
+.login:hover{
+    background-color: white;
+    color:black;
+
+}
+.home{
+    padding: 10px;
+    color: white;
+    height: 100vh;
+    font-family: "Audiowide",sans-serif;
+}
+.home h1{
+    margin-bottom: 25px;
+    text-align: left;
+    text-decoration: none;
+
+}
+#video{
+    display: absolute;
+    position: fixed;
+    z-index: -10;
+    background-size: cover;
+}
+.content{
+    padding-top: 50vh;
+    padding-left:50px ;
+}
+.About{
+    height: 100vh;
+    background-color: black;
+    padding-left: 25vw;
+    padding-right: 25vw;
+    padding-top: 20%;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-family: "Audiowide",sans-serif;
+    padding: 5px;
+    text-decoration: underline;
+}
+p{
+    color: white;
+    font-size:25px;
+}
+.Why{
+    height: 100vh;
+    background-color: black;
+    padding-left: 25vw;
+    padding-right: 25vw;
+    padding-top: 20%;
+}
+ul{
+    color: white;
+    font-size:25px;
+}
+li{
+    padding-bottom: 9px;
+}
+.Responsibilities{
+        height: 100vh;
+    background-color: black;
+    padding-left: 25vw;
+    padding-right: 25vw;
+    padding-top: 20%;
+}
+.Benifits{
+        height: 100vh;
+    background-color: black;
+    padding-left: 25vw;
+    padding-right: 25vw;
+    padding-top: 20%;
+    padding-bottom:2400px;
+}
+#info{
+    background-color: black;
+}
+.eligibility
+{
+   height: 100vh;
+    background-color: black;
+    padding-left: 25vw;
+    padding-right: 25vw;
+    padding-top: 20%;
+}
+.icons{
+  text-align:center;
+  font-size: 50px;
+  color: white;
+}
+
+.contact-list {
+  padding:15px;
+}
+#Designed_by{
+  font-size: 20px;
+  font-family:cursive;
+}
+
+.logos a{
+  margin-right:20px;
+  color: white;
+}
